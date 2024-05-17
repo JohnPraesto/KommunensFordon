@@ -1,0 +1,6 @@
+@KommunensFordon_HostAddress = http://localhost:5256
+
+GET {{KommunensFordon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
